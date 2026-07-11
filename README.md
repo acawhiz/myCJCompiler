@@ -2,11 +2,7 @@
 Experimental C/Java-to-8085 compiler with parsing, trees, and regex-based analysis.
 
 
-🚧 **Coming Soon** — But a Prototype Is Ready! 🚀
-
 This repository explores how to convert high-level language constructs in **C** and **Java** into equivalent **8085 Assembly Language** instructions.
-
-A **working prototype** has already been developed and will be refined and expanded with detailed documentation, examples, and tooling in the upcoming releases.
 
 ---
 
@@ -38,23 +34,6 @@ Understanding how high-level programming constructs are translated into low-leve
 
 ---
 
-## 📦 Status
+example program:
 
-- ✅ **Prototype**: Functional version with initial feature set
-- 📝 **Documentation**: In progress
-- 🛠 **Expanded Support**: Coming soon
-
----
-
-## 📅 Timeline
-
-We are actively working on expanding this project. Expect updates including:
-
-- Example programs
-- Full walkthroughs
-- More language features (loops, functions, conditionals)
-- Interactive tooling
-
----
-
-> ⭐ Star the repository to follow progress and get updates!
+![C to 8085 Assembly Translation](images/CtoASM.jpg)

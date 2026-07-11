@@ -1,6 +1,17 @@
 main(){
-int a;
+    int a;
+    int b;
+    int sum;
+    a = 10;
+    b = 20;
 
-a=5;
-
+    sum = a + b + 5;
+    for (int i = 0; i < 5; i = i + 1)
+    {
+        sum = sum + i;
+    }
+    while (sum < 100)
+    {
+        sum = sum + 10;
+    }
 }
