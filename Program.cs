@@ -72,7 +72,7 @@ foreach (var variable in parser.variables)
     symboltable.Add(variable.Item1/*identifier name*/, "@@" + variable.Item2 + "_" + variable.Item1/*symbol name*/, size, variable.Item3/*scope*/, variable.Item2/*type*/);//item1=identifier name, item2=type,item3=scope(int)
 }
 ////////end symbol table creation/////////////////
-
+//symboltable.Show();
 
 CodeGenerator codegenerator = new CodeGenerator();
 

@@ -37,3 +37,11 @@ Understanding how high-level programming constructs are translated into low-leve
 example program:
 
 ![C to 8085 Assembly Translation](images/CtoASM.jpg)
+
+Compiler Pipeline:
+
+![C to 8085 Assembly Translation](images/commpilerpipeline.jpg)
+
+Memory Map 8085 emulator:
+
+![C to 8085 Assembly Translation](images/memorymap8085emulator.jpg)
