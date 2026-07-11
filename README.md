@@ -32,6 +32,7 @@ Understanding how high-level programming constructs are translated into low-leve
 - Educators looking for simple demonstrators
 - Anyone curious about what happens "under the hood"
 
+> **Future Work:** Build a backend assembler that maps assembly mnemonics to their binary opcodes, producing executable machine code for the target processor.
 ---
 
 example program:
