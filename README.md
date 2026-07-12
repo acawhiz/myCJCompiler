@@ -43,6 +43,10 @@ Compiler Pipeline:
 
 ![C to 8085 Assembly Translation](images/commpilerpipeline.jpg)
 
+Classes:
+
+![C to 8085 Assembly Translation](images/classes.jpg)
+
 Memory Map 8085 emulator:
 
 ![C to 8085 Assembly Translation](images/memorymap8085emulator.jpg)
